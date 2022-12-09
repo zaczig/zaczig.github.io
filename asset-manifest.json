@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f32e6c6.css",
+    "main.js": "/static/js/main.6f4efef8.js",
+    "static/media/KyleField.jpg": "/static/media/KyleField.ea8dd3691edc8780145b.jpg",
+    "static/media/yellowLogo.png": "/static/media/yellowLogo.e07a2c4cf434d7d19ab7.png",
+    "index.html": "/index.html",
+    "main.4f32e6c6.css.map": "/static/css/main.4f32e6c6.css.map",
+    "main.6f4efef8.js.map": "/static/js/main.6f4efef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f32e6c6.css",
+    "static/js/main.6f4efef8.js"
+  ]
+}
